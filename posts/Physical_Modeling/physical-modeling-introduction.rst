@@ -39,6 +39,8 @@ Yamaha VL1 (1994)
 =================
 
 .. youtube:: OYWxCrz3vmQ
+	:width: 60%
+	:align: center
 
 
 -----
@@ -66,11 +68,12 @@ It a modular setup, this is especially interesting, since arbitrary excitation s
 
 
 .. figure:: /images/Sound_Synthesis/physical_modeling/mysteron.jpg
- :width: 400
+	:width: 30%
+	:align: center
 
 .. figure:: /images/Sound_Synthesis/physical_modeling/rings.jpg
- :width: 400
-
+	:width: 40%
+	:align: center
 
 -----
 
@@ -87,6 +90,8 @@ However, the technique has been used a lot in the context of experimental music 
 
 
 .. youtube:: Rz_gKP6h61I
+	:width: 60%
+	:align: center
 
 -----
 
@@ -98,6 +103,8 @@ Matthew Burtner used physical models of singing bowls, excited by a saxophone:
 
 
 .. youtube:: 3MptMGqGCJo
+	:width: 60%
+	:align: center
 
 ----
 

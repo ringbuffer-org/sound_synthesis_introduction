@@ -1,5 +1,5 @@
 .. title: Digital Synthesis: Applications
-.. slug: synthesis-algorithms-overwiew-2
+.. slug: synthesis_applications
 .. date: 2020-04-27 21:00:32 UTC
 .. tags:
 .. category: _sound_synthesis:introduction_2
@@ -12,29 +12,25 @@
 Applications
 ------------
 
-While every digital sound synthesis approach
-stands for itself due to its unique characteristics,
-they all come with inherent
-strengths and limitations with regard to specific tasks and applications.
-[Fig.1]_ shows a list of synthesis goals with suitable
-approaches by Misra et al. (2009).
-In general, frequency-domain methods are less suited
-for time-critical tasks, involving transients and
-textures.
-Also, the table in Fig.1 suggests the versatility of granular
-and concatenative synthesis.
+While every digital sound synthesis approach stands for itself due to its unique characteristics,
+they all come with inherent strengths and limitations with regard to specific tasks and applications.
+The following figure shows a list of synthesis goals with suitable approaches by Misra et al. (2009).
 
 .. figure:: /images/Sound_Synthesis/taxonomy_42.png
-	:width: 60%
+	:width: 40%
 	:figwidth: 100%
 	:align: center
 
-.. [Fig.1] *Synthesis goals and suitable approaches (Misra et al, 2009)*
+	*Synthesis goals and suitable approaches (Misra et al, 2009)*
 
 ------
 
+In general, frequency-domain methods are less suited for time-critical tasks, involving transients and textures.
+Also, the table above suggests the versatility of granular and concatenative synthesis.
+
+
 Many methods for sound synthesis - analog or digital -
-have gained their status as an indipendent musical
+have gained their status as an independent musical
 instrument, with characteristic sound properties.
 Some shaped the development of popular music and spawned new
 musical genres.
@@ -44,8 +40,7 @@ techno music, and FM synthesis - with the DX7
 literally playing a part in most 1980s pop hits.
 Such influential synthesizers have again been synthesized.
 Virtual analog - also analog modeling - emulates vintage
-subtractive synthesizers in hard- and software and
-software synthesizers simulate classic FM synthesizers.
+subtractive synthesizers in hard- and software and software synthesizers simulate classic FM synthesizers.
 
 
 

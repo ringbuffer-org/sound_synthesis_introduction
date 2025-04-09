@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. priority: 2
 
 
 Two master's thesis in collaboration between Audiocommunication Group and IRCAM
@@ -16,6 +17,13 @@ can be used to dynamically change the affective state of the
 virtual crowd. The resulting algorithm was applied in
 user studies in virtual acoustic environments.
 
+**Papers & Thesis:**
+
+https://www.atiam.ircam.fr/Archives/Stages1516/GRIMALDI_Vincent_Rapport_Stage.pdf
+
+https://www.static.tu.berlin/fileadmin/www/10002020/Dokumente/Abschlussarbeiten/Knoerzer_MasA.pdf
+
+https://secure.aes.org/forum/pubs/conventions/?elib=18620
 
 Recordings
 ==========
@@ -31,7 +39,8 @@ Features
 
 
 .. figure:: /images/Sound_Synthesis/concatenative/valence_arousal_1.png
- :width: 500	    
+  :width: 60%
+  :align: center    
 
 
 

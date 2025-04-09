@@ -16,17 +16,34 @@ Wave Equation for Ideal Strings
 The ideal string results in an oscillation without losses.
 The differential wave-equation for this process is defined as follows.
 The velocity :math:`c` determines the propagation speed of the wave and
-this the frequency of the oscillation.
+this results in the frequency of the oscillation.
 
 .. math::
   \frac{\partial^2 y}{\partial t^2} = c^2  \frac{\partial^2 y}{\partial x^2}
 
+
+With:
+
+
+- :math:`\frac{∂^2y}{∂t^2}`: the second partial derivative with respect to time (the acceleration of the wave at a point).
+
+- :math:`\frac{∂^2y}{∂x^2}`: the second partial derivative with respect to space (the curvature of the string at that point).
+
+- :math:`c`: the propagation speed of the wave, depending on the physical properties of the medium.
+
+
+-----
+
 A solution for the different equation without losses is given by d'Alembert (1746).
 The oscillation is composed of two waves - one left-traveling and one right traveling
 component.
+The displacement - :math:`y(x,t)` of the wave at position :math:`x` and time :math:`t`.
+can be expressed as:
 
 .. math::
   y(x,t) = y^+ (x-ct) + y^- (x+ct)$
+
+With:
 
 - :math:`y^+` = left traveling wave
 - :math:`y^-` = right traveling wave
@@ -37,8 +54,8 @@ component.
 Tuning the String
 -----------------
 
-The velocity :math:`c` depends on
-tension :math:`K` and mass-density :math:`\epsilon`
+In an ideal string, the velocity :math:`c` depends on 
+the tension :math:`K` and mass-density :math:`\epsilon`
 of the string:
 
 .. math::
@@ -46,7 +63,7 @@ of the string:
 
 With tension :math:`K`, cross sectional area :math:`S` and density :math:`\rho` in :math:`{\frac{g}{cm^3}}`.
 
-Frequency :math:`f` of the vibrating string depends on the velocity and the string length:
+The frequency :math:`f` of the vibrating string depends on the velocity and the string length:
 
 .. math::
   f = \frac{c}{2 L}

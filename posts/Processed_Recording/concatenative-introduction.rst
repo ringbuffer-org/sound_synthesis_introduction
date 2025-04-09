@@ -6,6 +6,8 @@
 .. link: 
 .. description: 
 .. type: text
+.. priority: 1
+
 
 Concatenative synthesis is an evolution of granular synthesis,
 first introduced in the context of speech synthesis and
@@ -21,20 +23,27 @@ navigating the multidimensional feature space and selected units
 are *concatenated*.
 
 
+	 
+.. figure:: /images/Sound_Synthesis/concatenative/concatenative-flow-2.png
+ :width: 60%
+ :align: center
+
+.. [Fig.2] (Schwarz, 2006)	
+
+
+
+-----
+
+
 .. figure:: /images/Sound_Synthesis/concatenative/concatenative-flow-1.png
- :width: 500
+  :width: 60%
+  :align: center
 
 .. [Fig.1] (Schwarz, 2006)	
 
------
-	 
-.. figure:: /images/Sound_Synthesis/concatenative/concatenative-flow-2.png
- :width: 500
 
-.. [Fig.2] (Schwarz, 2006)	
-	 
------
 
+-----
 
 References
 ==========

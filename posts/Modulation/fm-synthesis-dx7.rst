@@ -23,7 +23,8 @@ using the full potential with MIDI.
 
 
 .. figure:: /images/Sound_Synthesis/modulation/yamaha_dx7_angle2.jpg
-	    :width: 400
+    :width: 50%
+    :align: center
 .. [Fig.1] *Yamaha DX7.*
 
 
@@ -49,14 +50,20 @@ The DX7 in 80s Pop
     - blues harp preset
     - starting 2:00
 
-    https://youtu.be/oGpFcHTxjZs
+.. youtube:: oGpFcHTxjZs
+	:width: 50%
+	:align: center
+
 
 **Laura Branigan - Self Control**
 
     - 1984
     - the bells
 
-    https://youtu.be/WqiCQA8ROXU
+.. youtube:: WqiCQA8ROXU
+	:width: 50%
+	:align: center
+    
 
 
 **Harold Faltenmeyer - Axel F**
@@ -65,7 +72,9 @@ The DX7 in 80s Pop
     - marimbas
     - starting 1:40
 
-    https://youtu.be/V4kWpi2HnPU
+.. youtube:: V4kWpi2HnPU
+	:width: 50%
+	:align: center
 
 
 
@@ -74,7 +83,10 @@ The DX7 in 80s Pop
     - 1986
     - FM bass
 
-    https://youtu.be/siwpn14IE7E
+.. youtube:: siwpn14IE7E
+	:width: 50%
+	:align: center
+
 
 
 
@@ -83,6 +95,8 @@ The DX7 in 80s Pop
     Find a comprenesive list of famous examples, here:
 
     http://bobbyblues.recup.ch/yamaha_dx7/dx7_examples.html
+
+------
 
 
 Programming the DX7
@@ -108,7 +122,8 @@ the free editing of the operator connections but provides a set of 32
 pre-defined algorithms, shown in [Fig.2]_.
 
 .. figure:: /images/Sound_Synthesis/modulation/dx7-1.jpg
-	    :width: 400
+    :width: 100%
+    :align: center
 .. [Fig.2] *Yamaha DX7 manual: algorithm selection.*
 
 
@@ -123,7 +138,8 @@ influences the modulation index and thus the
 overtone structure.
 
 .. figure:: /images/Sound_Synthesis/modulation/dx7-2.jpg
-	    :width: 400
+    :width: 40%
+    :align: center
 .. [Fig.3] *Yamaha DX7 manual: envelope editing.*
 
 
