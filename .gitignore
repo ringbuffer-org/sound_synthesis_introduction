@@ -3,3 +3,4 @@ Website/jupyter/*html
 jupyter/*.html
 jupyter_code/*.html
 jupyter/.ipynb_checkpoints/
+.ipynb_checkpoints/

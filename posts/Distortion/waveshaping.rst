@@ -8,7 +8,7 @@
 .. type: text
 .. has_math: true
 .. priority: 2
-
+.. template: jupyter_default.tmpl
 
 .. raw:: html
    :file: ../Sound_Synthesis_Introduction/jupyter/waveshaper-function.html

@@ -1,0 +1,14 @@
+// Karplus-Strong Algorithm
+digraph {
+	rankdir=LR
+	E [label=Excitation shape=box style=rounded]
+	D [label="Delay Line" shape=box style=rounded]
+	L [label="Lowpass Filter" shape=box style=rounded]
+	A [label=Attenuation shape=box style=rounded]
+	O [label=Output shape=box style=rounded]
+	E -> D
+	D -> L
+	L -> A
+	L -> O
+	A -> D [label=feedback]
+}
